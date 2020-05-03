@@ -1,4 +1,6 @@
-Alamance Final Project - CoronavirusTracker
+Alamance Final Project for CS290 - CoronavirusTracker
+Spring 2020
+by Jen, Lu, Steph, Martin, and Matt
 
 We built an app to help people stay safe during the COVID-19 pandemic.
 Note: app is currently compatible with iPhone 11 Max and iPhone 8 Plus on portrait mode only.
